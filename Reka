@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="../css/A2(4).css">
+  <link rel="icon" type="image/x-icon"href="../img(2)/favicon.ico"></link>
+ <title>Alexseeva 2(3)</title>
+ </head>
+ 	<!DOCTYPE html>
+<body>
+<map name="Alexseeva(1)">
+<area coords="44,80,30" shape="circle" href="https://ru.wikipedia.org/wiki/Амур"  alt="gerbera" target="_ blank"></map>
+<map name="Alexseeva(2)">
+<area coords="0,0,47,18" shape="rect" href="https://id.mail.ru/profile?utm_campaign=mailid&utm_medium=ph&from=headline" alt="gerbera" target="_ blank"></map>
+<map name="Alexseeva(3)">
+<area coords="0,0,47,18" shape="rect" href= "https://htmlbook.ru/samhtml" alt="gerbera" target="_ blank"></map>
+	<center>
+	<p><font color = "blue">Моя река</p></font>
+<table>
+<tr bgcolor="#c0daff">
+<td colspan=3 align=center>⠀⠀Амур ⠀</td>
+</tr>
+<tr>
+<td colspan=3 align=center><img width=200 src="../img(2)/amyr.png" usemap = "#Alexseeva(1)" ></td></a>
+</tr>
+<tr>
+<td colspan=3 align=center>&emsp;Амур у Хабаровска <img src="../img(2)/3.png" usemap = "#Alexseeva(2)" ></td>
+</tr>
+<tr bgcolor="#c0daff">
+<td colspan=3 align=center>Характеристика</td>
+</tr>
+<tr>
+<td align=center>Длина</td>
+<td align=center>2824 км</td>
+<td align=center><img src="../img(2)/3.png" usemap = "#Alexseeva(3)" ></td>
+</tr>
+<tr>
+<td align=center>Бассейн</td>
+<td align=center>1 856 000 км²</td>
+</tr>
+<tr>
+<td align=center>Расход воды</td>
+<td align=center>12800 м³/с(Устье)</td>
+</tr>
+</table>
+<div id="footer">
+   &copy; Алексеева Анастасия(2) ИСП-31-21
+  </div>
+ </body>
+</html>
+ </body>
+</html>
