@@ -1,0 +1,33 @@
+#Продемонстрирую код с ссылками на цветы:
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="../css/A2(3).css">
+  <link rel="icon" type="image/x-icon"href="../img(2)/favicon.ico"></link>
+ <title>Alexseeva 2(2)</title>
+ </head>
+ <body>
+ </head>
+ <body>
+  <div id="content">
+<map name="Alexseeva">
+<area coords="44,80,30" shape="circle" href= https://ru.wikipedia.org/wiki/Гербера alt="gerbera" target="_ blank">
+<area shape="poly" coords="93,22;132,19;135,56;92,55"
+href= https://ru.wikipedia.org/wiki/Гиацинт alt="'hyacinth" target="_blank">
+<area shape="circle" coords="185,59,30"
+href= https://ru.wikipedia.org/wiki/Ромашка alt="camomiles" target="_blank">
+<area shape="circle" coords="240,80,30"
+href= https://ru.wikipedia.org/wiki/Hарцисс_(растение) alt="'narcissus" target="_blank">
+<area shape="rect" coords="303,44;309,11"
+href= https://ru.wikipedia.org/wiki/Тюльпан alt="tulip" target="_blank">
+</map>
+  <center>
+  <img src="../img(2)/flower.png" usemap = "#Alexseeva">
+  </center>
+  </div>
+  <div id="footer">
+   &copy; Алексеева Анастасия(2) ИСП-31-21
+  </div>
+ </body>
+</html>
