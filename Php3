@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<title>Alexkseeva 2 (4)</title>
+<link rel="icon" type="image/x-icon" href="../img(2)/favicon.ico"></link>
+<html>
+<head>
+ <style>
+h6 {
+color :#4b0082;}
+hr {
+border : dashed #1e90ff;}
+h4 {
+color :#a52a2a;}
+p {
+color :#a52a2a;}
+h5 {
+color :#9400d3;
+ </style>
+</head>
+<body>
+<h6>Алексеева Анастасия (2) ИСП-31 </h6>
+<hr>
+<p>
+<p>Задание 4 :</p>Напишите программу на php для вычисления функции y</h3>
+<h5>Результат:</h5>
+<?php
+
+<p><?php</p>
+<p>$a = 2.0;</p>
+<p>$b = 2.4;</p>
+<p>$c = 3.0;</p>
+<p>$x= (pow($a,2))/(pow($b,2)+1);</p>
+<p>$y=(pow($a,2+$x,2))/$c;</p>
+<p>$z=sqrt($x+1)-sqrt($x+2*sqrt($y))-sqrt(2*$y+sqrt($x));</p>
+<p>echo $z;</p>
+<p>?></p>
+
+
+</body>
+</html>
+
