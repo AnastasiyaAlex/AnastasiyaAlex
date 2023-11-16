@@ -1,0 +1,42 @@
+#Создадим собственную веб-страницу:
+ <!DOCTYPE HTML>
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <title>Alexseeva.2(3)</title>
+ </head>
+
+<body bgcolor = fae100>
+<center><h1><font color = red>Города России</center></font></h1>
+<center><h2><font color = blue >Башкортостан Республика</center></font></h2>
+<ol type ="A">
+<li>Агидель</li>
+<li>Баймак</li>
+<li>Белебей</li>
+<li>Белорецк</li>
+</ol>
+<center><h2><font color = blue >Ингушетия Республика</center></font></h2>
+<ol type ="I">
+<li>Карабулак</li>
+<li>Магас</li>
+<li>Малгобек</li>
+<li>Назрань</li>
+</ol>
+<center><h2><font color = blue >Коми Республика</center></font></h2>
+<ol type ="a">
+<li>Воркута</li>
+<li>Вуктыл</li>
+<li>Емва</li>
+<li>Инта</li>
+</ol>
+<center><h2><font color = blue >Татарстан Республика</center></font></h2>
+<ol type ="1">
+<li>Агрыз</li>
+<li>Азнакаево</li>
+<li>Альметьевск</li>
+<li>Арск</li>
+
+</ol>
+</body>
+</html>
+ 
