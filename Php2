@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<title>Alexkseeva 2 (3.1)</title>
+<link rel="icon" type="image/x-icon" href="../img(2)/favicon.ico"></link>
+<html>
+<head>
+ <style>
+h6 {
+color :#4b0082;}
+hr {
+border : dashed #1e90ff;}
+h4 {
+color :#a52a2a;}
+p {
+color :#a52a2a;}
+h5 {
+color :#9400d3;
+ </style>
+</head>
+<body>
+<h6>Алексеева Анастасия (2) ИСП-31 </h6>
+<hr>
+<p>
+<p>Задание 3.1:</p>Напишите программу на php для вычисления функции y</h3>
+<h5>Результат:</h5>
+<?php
+
+<p>$q1 = exp(sin(2*$x));</p>
+<p>$q2 = pow($x,3);</p>
+<p>$q3 = log(abs(14/$x));</p>
+<p>$q4=sqrt((5*pow(2,pi())+sin(2*$x))/(12*pow($x,3)));</p>
+<p>$y=($q1+$q2+$q3)/$q4;</p>
+<p>echo $y;</p>
+<p>?></p>
+
+
+</body>
+</html>
+
